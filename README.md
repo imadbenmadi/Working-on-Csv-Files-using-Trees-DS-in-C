@@ -8,7 +8,6 @@ i hope u take a look at it
 
 2- Excute the main code 
 
-the program result : 
 ![2](https://user-images.githubusercontent.com/106430872/211680737-a6525a92-ede9-4b4f-87b1-50b49f232e72.PNG)
 
 ![3](https://user-images.githubusercontent.com/106430872/211681019-d83f99bf-c9c7-4446-85d8-f7cac8d0c57a.PNG)
