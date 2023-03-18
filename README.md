@@ -1,7 +1,5 @@
 # TP-03-ASD-imad-benmadi-A4
 
-HI sur i've been working on this TP the whole vacation 
-i hope u take a look at it 
 
 1- make the main program and the data.csv file in a same file directorey "see example bellow"
 ![Capture](https://user-images.githubusercontent.com/106430872/211680564-ebf27294-8175-40c1-ab8c-0ccbb9809a46.PNG)
